@@ -1,1 +1,4 @@
 What happens when you initialize a repository? Why do you need to do it?
+
+
+How do the diagrams help you visualize the branch structure?
